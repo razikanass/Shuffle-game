@@ -1,0 +1,9 @@
+﻿  game.cpp
+D:\shadrunWorks\Shuffle-game\Shuffle-game\src\game.cpp(60,62): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+D:\shadrunWorks\Shuffle-game\Shuffle-game\src\game.cpp(66,40): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+D:\shadrunWorks\Shuffle-game\Shuffle-game\src\game.cpp(80,8): warning C4101: 'coord' : variable locale non référencée
+D:\shadrunWorks\Shuffle-game\Shuffle-game\src\game.cpp(90,61): warning C4267: 'argument' : conversion de 'size_t' en 'short', perte possible de données
+D:\shadrunWorks\Shuffle-game\Shuffle-game\src\game.cpp(106,46): warning C4244: 'argument' : conversion de 'float' en 'short', perte possible de données
+D:\shadrunWorks\Shuffle-game\Shuffle-game\src\game.cpp(106,26): warning C4244: 'argument' : conversion de 'float' en 'short', perte possible de données
+D:\shadrunWorks\Shuffle-game\Shuffle-game\src\game.cpp(140,67): warning C4267: 'argument' : conversion de 'size_t' en 'short', perte possible de données
+  Shuffle-game.vcxproj -> D:\shadrunWorks\Shuffle-game\x64\Debug\Shuffle-game.exe
