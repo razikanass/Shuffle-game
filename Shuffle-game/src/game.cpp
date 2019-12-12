@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
 	color(YELLOW, STRONG_BLUE);
 	COORD dim = getDim();
 	gotoxy((dim.X / 2) - (game.greetting.size() / 2), dim.Y / 2);
-	std::cout << game.greetting << std::endl;	
+	std::cout << game.greetting << std::endl;
 	getc(stdin);
 
 	game.currentWord = { game.generateWord(), 0.0f, float(dim.Y / 2), 0 };
